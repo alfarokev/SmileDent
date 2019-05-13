@@ -1,0 +1,11 @@
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\bin\Debug\SmileDent.exe.config
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\bin\Debug\SmileDent.exe
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\bin\Debug\SmileDent.pdb
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.csprojAssemblyReference.cache
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.Form1.resources
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.Properties.Resources.resources
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.csproj.GenerateResource.cache
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.exe
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.pdb
+C:\Users\kevin\Documents\UCR\Ingenieria\Proyecto\Codigo\SmileDent\SmileDent\obj\Debug\SmileDent.Interfaz.Inicio.resources
